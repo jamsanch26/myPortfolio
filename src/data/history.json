@@ -1,29 +1,32 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Senior Quality Coordinator",
+      "organisation": "NyanKids (Cambodia) Ltd. | Phnom Penh, Cambodia",
+      "startDate": "February 2020",
+      "endDate": "May 2023",
+      "experiences": ["Monitored QA/QC performance by gathering relevant data and performing final inspections.", 
+      "Organized and updated all necessary documents and quality SOPs.",
+      "Provided training and best practices to factory staff to enhance product quality."],
+      "imageSrc": "history/nyankid.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Customer Service Representative",
+      "organisation": "Teleperformance | Mandaluyong, Philippines",
+      "startDate": "October 2018",
+      "endDate": "January 2020",
+      "experiences": ["Managed all customer inquiries and provided effective solutions to ensure satisfaction.", 
+      "Entered and maintained data from customers into various software programs accurately.",
+      "Troubleshot equipment and system problems, escalating issues as necessary to ensure timely resolution.",
+      "Collaborated with team members to improve processes and enhance overall customer experience."],
+      "imageSrc": "history/tp.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Information Technology Intern",
+      "organisation": "SPI CRM Inc. | Ortigas Center, Philippines",
+      "startDate": "June 2017",
+      "endDate": "September 2017",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+        "Troubleshoot system and install/configure computer hardware operating systems and applications."],
+      "imageSrc": "history/spi.png"
     }
   ]  

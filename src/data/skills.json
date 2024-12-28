@@ -16,15 +16,51 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "Express.js",
+      "imageSrc": "skills/expressjs.png"
+    },
+    {
+      "title": "Angular.js",
+      "imageSrc": "skills/angularjs.png"
     },
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "C++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
+    },
+    {
+      "title": "Intellij",
+      "imageSrc": "skills/intellij.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "Oracle",
+      "imageSrc": "skills/oracle.png"
+    },
+    {
+      "title": "VisualStudio",
+      "imageSrc": "skills/visualstudio.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/github.png"
     }
   ]  
