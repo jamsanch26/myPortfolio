@@ -15,7 +15,7 @@ export const Hero = () => {
 
         <a 
           href="/myPortfolio/assets/hero/Jamela Sanchez - Resume.pdf" 
-          download="myResume.pdf"
+          download="Jamela Sanchez - Resume.pdf"
           className={styles.contactBtn}>
           Contact Me
         </a>
