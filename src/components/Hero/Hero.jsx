@@ -12,7 +12,11 @@ export const Hero = () => {
           Welcome to my page! I'm a fresh graduate of the Software Engineering Technician program, with a prior Bachelor of Science degree in Information Technology.
           If you're interested or would like to see my resume, kindly click the 'Contact Me' button. I look forward to connecting!
         </p>
-        <a href="assets/hero/myResume.pdf" download className={styles.contactBtn}>
+
+        <a 
+          href="/myPortfolio/assets/hero/Jamela Sanchez - Resume.pdf" 
+          download="myResume.pdf"
+          className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
