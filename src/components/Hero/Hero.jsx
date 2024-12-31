@@ -14,8 +14,8 @@ export const Hero = () => {
         </p>
 
         <a 
-          href="/myPortfolio/assets/hero/myResume.pdf" 
-          download="myResume.pdf"
+          href="https://jamsanch26.github.io/myPortfolio/myResume.pdf"
+          download
           className={styles.contactBtn}>
           Contact Me
         </a>
