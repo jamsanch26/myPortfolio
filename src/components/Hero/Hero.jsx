@@ -14,8 +14,8 @@ export const Hero = () => {
         </p>
 
         <a 
-          href="/myPortfolio/assets/hero/Jamela Sanchez - Resume.pdf" 
-          download="Jamela Sanchez - Resume.pdf"
+          href="/myPortfolio/assets/hero/myResume.pdf" 
+          download="myResume.pdf"
           className={styles.contactBtn}>
           Contact Me
         </a>
