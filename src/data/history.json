@@ -21,12 +21,20 @@
       "imageSrc": "history/tp.png"
     },
     {
+      "role": "Ticket Officer Accounting Clerk",
+      "organisation": "Roperl Trademart | Catbalogan, Philippines",
+      "startDate": "April 2018",
+      "endDate": "September 2018",
+      "experiences": ["Performing basic office tasks, such as filing, data entry, answering phones, processing the mail.", 
+      "Responsible for handling ticket reservations, cancellations, alterations, and informing customerswhen a flight has been delayed or cancelled."],
+      "imageSrc": "history/roperlTrademart.png"
+    },
+    {
       "role": "Information Technology Intern",
       "organisation": "SPI CRM Inc. | Ortigas Center, Philippines",
       "startDate": "June 2017",
       "endDate": "September 2017",
-      "experiences": [
-        "Troubleshoot system and install/configure computer hardware operating systems and applications."],
+      "experiences": ["Troubleshoot system and install/configure computer hardware operating systems and applications."],
       "imageSrc": "history/spi.png"
     }
   ]  
