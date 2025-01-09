@@ -177,7 +177,7 @@ export const About = () => {
                       development, maintenance, and administration of computer
                       applications. Eventually, I attended an On-the-Job
                       Training (OJT) in IT firms and corporations which is in
-                      SPI CRM Inc. I was given the opportunity to apply their
+                      SPI CRM Inc. I was given the opportunity to apply these
                       knowledge and skills in an actual work setting.
                     </h5>
                   </li>
