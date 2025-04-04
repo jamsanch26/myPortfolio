@@ -88,6 +88,11 @@ export const About = () => {
 
   const professionalDevelopment = [
     {
+      title: "Python for Data Science, AI & Development Certificate",
+      description: "IBM, Coursera Course | 2025",
+      images: [getImageUrl("about/professionalAccomplishments.png")]
+    },
+    {
       title: "Gap Inc. Factory Approval Certificate",
       description: "Factory Process Audit Program | 2022",
       images: [getImageUrl("about/professionalAccomplishments3.png")]
