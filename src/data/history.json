@@ -1,4 +1,22 @@
 [
+  {
+      "role": "Assembly Technician",
+      "organisation": "Accuenergy | Toronto, Canada",
+      "startDate": "October 2025",
+      "endDate": "present",
+      "experiences": ["Assemble, test electrical and electronic components, ensuring compliance with health & safety regulations.", 
+      "Prepare work by gathering parts, recording defects, and using proper PPE to maintain a safe worksite."],
+      "imageSrc": "history/accuenergy.png"
+    },
+    {
+      "role": "Team Member",
+      "organisation": "Tim Hortons | Toronto, Canada",
+      "startDate": "March 2025",
+      "endDate": "October 2025",
+      "experiences": ["Entering sales into a cash register and collecting/processing payment.", 
+      "Providing great customer service by preparing coffee and food orders."],
+      "imageSrc": "history/timHortons.png"
+    },
     {
       "role": "Senior Quality Coordinator",
       "organisation": "NyanKids (Cambodia) Ltd. | Phnom Penh, Cambodia",
