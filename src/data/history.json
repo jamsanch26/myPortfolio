@@ -1,9 +1,19 @@
 [
   {
+    "role": "Animal Care Technician",
+    "organisation": "Canada Packers | Manitoba, Canada",
+    "startDate": "June 2026",
+    "endDate": "present",
+    "experiences": ["Provided daily pig care, including feeding, room preparation, pressure washing, and keeping a clean, safe environment.", 
+    "Performed minor maintenance and sanitation tasks to support herd health. Completed clerical duties like door charts, inventory tracking,",
+    "Ordering feed and medication and followed all health and safety policies, Canada Packers SOPs for humane animal treatment."],
+    "imageSrc": "history/cp.png"
+  },
+  {
       "role": "Assembly Technician",
       "organisation": "Accuenergy | Toronto, Canada",
       "startDate": "October 2025",
-      "endDate": "present",
+      "endDate": "June 2026",
       "experiences": ["Assemble, test electrical and electronic components, ensuring compliance with health & safety regulations.", 
       "Prepare work by gathering parts, recording defects, and using proper PPE to maintain a safe worksite."],
       "imageSrc": "history/accuenergy.png"
